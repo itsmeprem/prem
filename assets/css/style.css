@@ -454,7 +454,7 @@ section {
   color: #6b96be;
 }
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("../img/me.png") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
@@ -494,13 +494,13 @@ section {
   font-style: normal;
 }
 .skills .progress-bar-wrap {
-  background: #fbeaf1;
+  background: #d8e3ec;
 }
 .skills .progress-bar {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: 463592;
+  background-color: #4b7dab;
 }
 
 /*--------------------------------------------------------------
